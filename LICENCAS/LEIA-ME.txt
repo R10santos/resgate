@@ -1,0 +1,9 @@
+Avisos de componentes externos
+
+Pygame 2.6.1: LGPL 2.1. Fonte: https://github.com/pygame/pygame/tree/2.6.1
+Python 3.12.3: PSF. Fonte: https://github.com/python/cpython/tree/v3.12.3
+SDL 2.28.4: zlib. Fonte: https://github.com/libsdl-org/SDL/tree/release-2.28.4
+FreeSans: avisos extraidos da fonte distribuida com Pygame. Fonte e licencas: https://www.gnu.org/software/freefont/
+PyInstaller: GPL com excecao de bootloader. https://pyinstaller.org/en/stable/license.html
+
+Os binarios das dependencias sao distribuidos sem modificacoes dentro de dist/Eco7.exe. O codigo do jogo esta junto no pacote.

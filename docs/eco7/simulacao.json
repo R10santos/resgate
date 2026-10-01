@@ -1,0 +1,320 @@
+[
+  {
+    "choice": "preserve",
+    "difficulty": "explore",
+    "chapters": [
+      {
+        "chapter": 1,
+        "seconds": 16.7,
+        "hp": 140,
+        "kills": 7,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 2,
+        "seconds": 18.4,
+        "hp": 156,
+        "kills": 9,
+        "ally_hp": 91,
+        "seconds_left": null
+      },
+      {
+        "chapter": 3,
+        "seconds": 28.2,
+        "hp": 165,
+        "kills": 9,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 4,
+        "seconds": 19.5,
+        "hp": 165,
+        "kills": 14,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 5,
+        "seconds": 31.3,
+        "hp": 190,
+        "kills": 11,
+        "ally_hp": 100,
+        "seconds_left": 214.9
+      }
+    ],
+    "ending": "AMANHÃ AINDA EXISTE",
+    "logs": 5,
+    "modules": {
+      "weapon": 2,
+      "armor": 2,
+      "reactor": 1
+    }
+  },
+  {
+    "choice": "purge",
+    "difficulty": "explore",
+    "chapters": [
+      {
+        "chapter": 1,
+        "seconds": 16.7,
+        "hp": 140,
+        "kills": 7,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 2,
+        "seconds": 18.4,
+        "hp": 156,
+        "kills": 9,
+        "ally_hp": 91,
+        "seconds_left": null
+      },
+      {
+        "chapter": 3,
+        "seconds": 28.2,
+        "hp": 165,
+        "kills": 9,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 4,
+        "seconds": 19.0,
+        "hp": 165,
+        "kills": 14,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 5,
+        "seconds": 21.5,
+        "hp": 190,
+        "kills": 10,
+        "ally_hp": 100,
+        "seconds_left": 224.7
+      }
+    ],
+    "ending": "AS CINZAS DE AURORA",
+    "logs": 5,
+    "modules": {
+      "weapon": 2,
+      "armor": 2,
+      "reactor": 1
+    }
+  },
+  {
+    "choice": "preserve",
+    "difficulty": "normal",
+    "chapters": [
+      {
+        "chapter": 1,
+        "seconds": 16.7,
+        "hp": 100,
+        "kills": 7,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 2,
+        "seconds": 18.4,
+        "hp": 110,
+        "kills": 9,
+        "ally_hp": 85,
+        "seconds_left": null
+      },
+      {
+        "chapter": 3,
+        "seconds": 28.2,
+        "hp": 125,
+        "kills": 9,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 4,
+        "seconds": 19.5,
+        "hp": 125,
+        "kills": 14,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 5,
+        "seconds": 31.3,
+        "hp": 150,
+        "kills": 11,
+        "ally_hp": 100,
+        "seconds_left": 214.9
+      }
+    ],
+    "ending": "AMANHÃ AINDA EXISTE",
+    "logs": 5,
+    "modules": {
+      "weapon": 2,
+      "armor": 2,
+      "reactor": 1
+    }
+  },
+  {
+    "choice": "purge",
+    "difficulty": "normal",
+    "chapters": [
+      {
+        "chapter": 1,
+        "seconds": 16.7,
+        "hp": 100,
+        "kills": 7,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 2,
+        "seconds": 18.4,
+        "hp": 110,
+        "kills": 9,
+        "ally_hp": 85,
+        "seconds_left": null
+      },
+      {
+        "chapter": 3,
+        "seconds": 28.2,
+        "hp": 125,
+        "kills": 9,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 4,
+        "seconds": 19.0,
+        "hp": 125,
+        "kills": 14,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 5,
+        "seconds": 21.5,
+        "hp": 150,
+        "kills": 10,
+        "ally_hp": 100,
+        "seconds_left": 224.7
+      }
+    ],
+    "ending": "AS CINZAS DE AURORA",
+    "logs": 5,
+    "modules": {
+      "weapon": 2,
+      "armor": 2,
+      "reactor": 1
+    }
+  },
+  {
+    "choice": "preserve",
+    "difficulty": "survival",
+    "chapters": [
+      {
+        "chapter": 1,
+        "seconds": 16.7,
+        "hp": 100,
+        "kills": 7,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 2,
+        "seconds": 18.4,
+        "hp": 105,
+        "kills": 9,
+        "ally_hp": 80,
+        "seconds_left": null
+      },
+      {
+        "chapter": 3,
+        "seconds": 28.2,
+        "hp": 125,
+        "kills": 9,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 4,
+        "seconds": 21.6,
+        "hp": 99,
+        "kills": 14,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 5,
+        "seconds": 31.3,
+        "hp": 150,
+        "kills": 11,
+        "ally_hp": 100,
+        "seconds_left": 214.9
+      }
+    ],
+    "ending": "AMANHÃ AINDA EXISTE",
+    "logs": 5,
+    "modules": {
+      "weapon": 2,
+      "armor": 2,
+      "reactor": 1
+    }
+  },
+  {
+    "choice": "purge",
+    "difficulty": "survival",
+    "chapters": [
+      {
+        "chapter": 1,
+        "seconds": 16.7,
+        "hp": 100,
+        "kills": 7,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 2,
+        "seconds": 18.4,
+        "hp": 105,
+        "kills": 9,
+        "ally_hp": 80,
+        "seconds_left": null
+      },
+      {
+        "chapter": 3,
+        "seconds": 28.2,
+        "hp": 125,
+        "kills": 9,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 4,
+        "seconds": 21.0,
+        "hp": 99,
+        "kills": 14,
+        "ally_hp": 100,
+        "seconds_left": null
+      },
+      {
+        "chapter": 5,
+        "seconds": 21.5,
+        "hp": 150,
+        "kills": 10,
+        "ally_hp": 100,
+        "seconds_left": 224.7
+      }
+    ],
+    "ending": "AS CINZAS DE AURORA",
+    "logs": 5,
+    "modules": {
+      "weapon": 2,
+      "armor": 2,
+      "reactor": 1
+    }
+  }
+]
