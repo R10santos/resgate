@@ -4,4 +4,6 @@ __pycache__/
 build/
 dist/
 *.spec
-/Eco7-Windows.zip
+!resgate/dist/
+resgate/dist/*
+!resgate/dist/Eco7.exe

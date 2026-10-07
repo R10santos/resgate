@@ -7,7 +7,9 @@ foram ligados à consciência do diretor Voss.
 
 ## Jogar no Windows
 
-Dê dois cliques em **iniciar.cmd** ou **dist/Eco7.exe**. O executável é independente:
+[Baixe o pacote pronto Eco7-Windows.zip](https://github.com/R10santos/resgate/raw/refs/heads/main/Eco7-Windows.zip)
+e use **Extrair Tudo...**. Abra a pasta extraída **Eco7** e dê dois cliques em
+**iniciar.cmd** ou **dist/Eco7.exe**. O executável é independente:
 não precisa de Python instalado nem de conexão com a internet. A janela pode ser
 redimensionada; o jogo mantém a proporção e ajusta as coordenadas do mouse.
 
